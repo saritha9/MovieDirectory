@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+}
+.mynavi {
+  float: left;
+  margin-left: 20px;
+}
+.linkStyle {
+  border: none;
+  background-color: white;
+  color: orange;
+}
+.linkStyle:hover {
+  text-decoration: underline;
+  color: red;
+}
+.linkStyle:focus {
+  outline: none;
+  font-size: xx-large;
+
+  text-decoration: line-through;
+  text-decoration-style: wavy;
+}
+
+.submitbutt {
+  border: none;
+  background-color: white;
+  color: rgb(168, 0, 168);
+}
+.submitbutt:hover {
+  text-decoration: underline;
+  color: purple;
+}
+.submitbutt:focus {
+  outline: none;
+}
+
+
+
